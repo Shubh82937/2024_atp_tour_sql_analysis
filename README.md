@@ -1,4 +1,5 @@
 # 2024 ATP Tour Performance Analytics Project
+![Interactive Tennis Dashboard](dashboard_screenshot.png)
 
 ### ❓ What it’s about
 This project is a deep-dive data analysis of the 2024 ATP tennis season. It takes the raw, messy match statistics of professional tennis players—including details like aces, double faults, court surfaces, match lengths, and break points—and processes them to evaluate true player dominance and court performance. 
