@@ -2,7 +2,7 @@
 ![Interactive Tennis Dashboard](dashboard_screenshot.png)
 
 ### ❓ What it’s about
-This project is a deep-dive data analysis of the 2024 ATP tennis season. It takes the raw, messy match statistics of professional tennis players—including details like aces, double faults, court surfaces, match lengths, and break points—and processes them to evaluate true player dominance and court performance. 
+This project is a deep-dive data analysis of the 2024 ATP tennis season. It takes the raw, messy match statistics of professional tennis players—including details like aces, double faults, court surfaces, match lengths, and break points - and processes them to evaluate true player dominance and court performance. 
 
 ### 🎯 Why it matters
 In real-world data jobs, data is almost never handed to you cleanly. In this dataset, a player's statistics are split awkwardly across separate "winner" and "loser" columns depending on who won the match. A standard spreadsheet or pivot table struggles to combine these rows automatically. This project matters because it solves a real business problem: transforming a chaotic, flat file into a unified, clean database where you can evaluate a player's true season profile across all matches played.
